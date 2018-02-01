@@ -18,7 +18,7 @@
 #define MOD_NOREPEAT 0x4000
 #endif
 
-#define NUM_DESKTOPS 4
+#define NUM_DESKTOPS 6
 
 typedef struct {
 	HWND *windows;
